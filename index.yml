@@ -4,6 +4,7 @@ services:
 - kernel-headers
 - kernel-headers-system-docker
 - open-vm-tools
+- sven
 consoles:
 - centos
 - debian
