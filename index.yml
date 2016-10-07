@@ -6,6 +6,7 @@ services:
 - open-vm-tools
 - sven
 consoles:
+- alpine
 - centos
 - debian
 - fedora
