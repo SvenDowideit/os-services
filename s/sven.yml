@@ -1,7 +1,6 @@
 sven:
   image: svendowideit/dev:latest
-  command: /usr/bin/vmtoolsd
-  privileged: true
+  privileged: false
   labels:
     io.rancher.os.scope: system
   restart: always
